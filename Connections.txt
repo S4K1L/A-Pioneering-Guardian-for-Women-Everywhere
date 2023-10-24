@@ -1,0 +1,15 @@
+< Gps to Node >
+VCC - 3V3
+RX - D1
+TX - D2
+GND -GND
+
+<GSM>
+VCC - 5v
+RX - TX-GPO2 
+TX - RX-GPO3
+
+<Button>
+angle
+oneside - D0
+GND -GND
